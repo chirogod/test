@@ -1,0 +1,11 @@
+.producto{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    text-align: center;
+}
+.producto .prod{
+    width: 220px;
+    height: 220px;
+    border: 1px solid black;
+}
